@@ -8,3 +8,5 @@ Yo como usuario quisiera poder tener un contador simple que permita incrementar,
   - Si se hace click en el botón "incrementar" se debe sumar 1  al contador.
   - Si se hace click en el botón "decrementar" se debe restar 1 al contador.
   - Si se hace click en el botón "reiniciar" se debe colocar el contador en cero.
+
+![Example counter](/public/example.gif)
